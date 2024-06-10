@@ -21,14 +21,6 @@ This React application provides a user-friendly platform for fitness enthusiasts
 - Node.js (version 14 or later)
 - npm (Node Package Manager)
 
-**Steps:**
-
-1. **Clone the Repository:**
-   If you have Git installed, clone this project using the following command:
-
-   ```bash
-   git clone https://your-github-repository-url.git
-
 
 **Project Structure:**
 The project is organized into the following key components:
