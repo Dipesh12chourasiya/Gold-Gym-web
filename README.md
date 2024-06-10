@@ -9,6 +9,10 @@ In the project directory, you can run:
 
 This React application provides a user-friendly platform for fitness enthusiasts to explore various exercises, tailored to specific body parts.
 
+## Demo
+
+[Live Demo](https://gold-gym777.netlify.app/)
+
 ## Features
 
 - **Visually Appealing Hero Banner:** Captures attention and sets the tone for the fitness experience. (Customizable with images or videos)
